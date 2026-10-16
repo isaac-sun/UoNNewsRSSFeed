@@ -4,7 +4,14 @@
     <title>UoN Current Students News (all)</title>
     <link>https://www.nottingham.ac.uk/currentstudents/news/news.aspx?category=all</link>
     <description>University of Nottingham student news</description>
-    <lastBuildDate>Fri, 16 Oct 2026 12:26:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 17:25:25 +0000</lastBuildDate>
+    <item>
+      <title>Learn with a leader this autumn</title>
+      <link>https://www.nottingham.ac.uk/currentstudents/news/learn-with-a-leader-this-autumn</link>
+      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/learn-with-a-leader-this-autumn</guid>
+      <description>If you’re beginning to think about your career then who better to get advice from than a host of sector-leading Nottingham alumni?</description>
+      <pubDate>Fri, 16 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Resources relating to the impact of industrial action</title>
       <link>https://www.nottingham.ac.uk/currentstudents/news/resources-relating-to-the-impact-of-industrial-action</link>
@@ -67,13 +74,6 @@
       <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/black-history-month-2026</guid>
       <description>Black History Month recognises the invaluable contributions of Black people to our university, our communities and our society as a whole. It also serves as an opportunity to inspire and empower future generations.</description>
       <pubDate>Tue, 06 Oct 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Future Nottingham 2 (FN2) Final Business Case approved by University Council</title>
-      <link>https://www.nottingham.ac.uk/currentstudents/news/future-nottingham-2-fn2-final-business-case-approved-by-university-council</link>
-      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/future-nottingham-2-fn2-final-business-case-approved-by-university-council</guid>
-      <description>The FN2 business case – which contains proposals for the latest iteration of institutional change – was approved by University Council on Thursday 1 October 2026. We will now progress to the implementation phase.</description>
-      <pubDate>Thu, 01 Oct 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
