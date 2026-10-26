@@ -4,7 +4,14 @@
     <title>UoN Current Students News (all)</title>
     <link>https://www.nottingham.ac.uk/currentstudents/news/news.aspx?category=all</link>
     <description>University of Nottingham student news</description>
-    <lastBuildDate>Mon, 26 Oct 2026 13:14:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 19:21:51 +0000</lastBuildDate>
+    <item>
+      <title>Anti-racism training</title>
+      <link>https://www.nottingham.ac.uk/currentstudents/news/anti-racism-training</link>
+      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/anti-racism-training</guid>
+      <description>Free sessions to help you understand and challenge racism.</description>
+      <pubDate>Mon, 26 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Tell us about your commute to campus</title>
       <link>https://www.nottingham.ac.uk/currentstudents/news/tell-us-about-your-commute-to-campus</link>
@@ -66,13 +73,6 @@
       <link>https://www.nottingham.ac.uk/currentstudents/news/changes-to-the-academic-calendar</link>
       <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/changes-to-the-academic-calendar</guid>
       <description>Next year will see some minor changes to the academic calendar at the University of Nottingham.</description>
-      <pubDate>Wed, 07 Oct 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Learn more about freedom of speech</title>
-      <link>https://www.nottingham.ac.uk/currentstudents/news/learn-more-about-freedom-of-speech</link>
-      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/learn-more-about-freedom-of-speech</guid>
-      <description>Spare 20 minutes to learn about your rights and responsibilities around freedom of speech.</description>
       <pubDate>Wed, 07 Oct 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
