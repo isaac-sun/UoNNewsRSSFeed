@@ -4,7 +4,14 @@
     <title>UoN Current Students News (all)</title>
     <link>https://www.nottingham.ac.uk/currentstudents/news/news.aspx?category=all</link>
     <description>University of Nottingham student news</description>
-    <lastBuildDate>Mon, 26 Oct 2026 06:15:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:14:15 +0000</lastBuildDate>
+    <item>
+      <title>Tell us about your commute to campus</title>
+      <link>https://www.nottingham.ac.uk/currentstudents/news/tell-us-about-your-commute-to-campus</link>
+      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/tell-us-about-your-commute-to-campus</guid>
+      <description>Complete our travel survey and you could win a £50 voucher.</description>
+      <pubDate>Mon, 26 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Wobble Week events and resources</title>
       <link>https://www.nottingham.ac.uk/currentstudents/news/wobble-week-events-and-resources</link>
@@ -66,13 +73,6 @@
       <link>https://www.nottingham.ac.uk/currentstudents/news/learn-more-about-freedom-of-speech</link>
       <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/learn-more-about-freedom-of-speech</guid>
       <description>Spare 20 minutes to learn about your rights and responsibilities around freedom of speech.</description>
-      <pubDate>Wed, 07 Oct 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Free Beginner Mandarin Course</title>
-      <link>https://www.nottingham.ac.uk/currentstudents/news/free-beginner-mandarin-course-3</link>
-      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/free-beginner-mandarin-course-3</guid>
-      <description>Nottingham Confucius Institute is offering a free three-week taster course.</description>
       <pubDate>Wed, 07 Oct 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
