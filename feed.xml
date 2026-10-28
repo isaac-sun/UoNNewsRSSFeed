@@ -4,7 +4,14 @@
     <title>UoN Current Students News (all)</title>
     <link>https://www.nottingham.ac.uk/currentstudents/news/news.aspx?category=all</link>
     <description>University of Nottingham student news</description>
-    <lastBuildDate>Wed, 28 Oct 2026 01:23:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:33:58 +0000</lastBuildDate>
+    <item>
+      <title>Apply now for a sustainable micro-internship</title>
+      <link>https://www.nottingham.ac.uk/currentstudents/news/apply-now-for-a-sustainable-micro-internship</link>
+      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/apply-now-for-a-sustainable-micro-internship</guid>
+      <description>The U21 Sustainable Micro-Internships are a two-week online programme where you will collaborate with students from across the globe to provide a solution to one or more of the UN Sustainable Development Goals.</description>
+      <pubDate>Tue, 27 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Anti-racism training</title>
       <link>https://www.nottingham.ac.uk/currentstudents/news/anti-racism-training</link>
@@ -67,13 +74,6 @@
       <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/driving-sustainability-and-community-join-fareshare-sessions</guid>
       <description>The university is hosting a number of pop-up Re-Store FareShare shops across our three campuses, to help tackle food waste and provide students with the opportunity to buy quality surplus food at a low cost.</description>
       <pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Changes to the academic calendar</title>
-      <link>https://www.nottingham.ac.uk/currentstudents/news/changes-to-the-academic-calendar</link>
-      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/changes-to-the-academic-calendar</guid>
-      <description>Next year will see some minor changes to the academic calendar at the University of Nottingham.</description>
-      <pubDate>Wed, 07 Oct 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
