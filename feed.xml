@@ -4,7 +4,14 @@
     <title>UoN Current Students News (all)</title>
     <link>https://www.nottingham.ac.uk/currentstudents/news/news.aspx?category=all</link>
     <description>University of Nottingham student news</description>
-    <lastBuildDate>Thu, 29 Oct 2026 14:21:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 20:19:14 +0000</lastBuildDate>
+    <item>
+      <title>NottinghamHub will be temporarily unavailable</title>
+      <link>https://www.nottingham.ac.uk/currentstudents/news/campus-solutions-will-be-temporarily-unavailable</link>
+      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/campus-solutions-will-be-temporarily-unavailable</guid>
+      <description>We are taking NottinghamHub offline for essential maintenance.</description>
+      <pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Apply now for a sustainable micro-internship</title>
       <link>https://www.nottingham.ac.uk/currentstudents/news/apply-now-for-a-sustainable-micro-internship</link>
@@ -66,13 +73,6 @@
       <link>https://www.nottingham.ac.uk/currentstudents/news/change-at-the-university-of-nottingham</link>
       <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/change-at-the-university-of-nottingham</guid>
       <description>With the Future Nottingham 2 (FN2) Final Business Case approved by University Council, the next few years will see a number of changes at the university.</description>
-      <pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Affordable and sustainable food shops on campus</title>
-      <link>https://www.nottingham.ac.uk/currentstudents/news/driving-sustainability-and-community-join-fareshare-sessions</link>
-      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/driving-sustainability-and-community-join-fareshare-sessions</guid>
-      <description>The university is hosting a number of pop-up Re-Store FareShare shops across our three campuses, to help tackle food waste and provide students with the opportunity to buy quality surplus food at a low cost.</description>
       <pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
