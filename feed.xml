@@ -4,7 +4,14 @@
     <title>UoN Current Students News (all)</title>
     <link>https://www.nottingham.ac.uk/currentstudents/news/news.aspx?category=all</link>
     <description>University of Nottingham student news</description>
-    <lastBuildDate>Mon, 02 Nov 2026 06:05:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 15:55:01 +0000</lastBuildDate>
+    <item>
+      <title>Take part in a short online survey about university reputation</title>
+      <link>https://www.nottingham.ac.uk/currentstudents/news/take-part-in-a-short-online-survey-about-university-reputation</link>
+      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/take-part-in-a-short-online-survey-about-university-reputation</guid>
+      <description>The survey will take around 10 minutes to complete and you could win up to £100 in vouchers.</description>
+      <pubDate>Mon, 02 Nov 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>NottinghamHub will be temporarily unavailable</title>
       <link>https://www.nottingham.ac.uk/currentstudents/news/campus-solutions-will-be-temporarily-unavailable</link>
@@ -67,13 +74,6 @@
       <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/student-services-survey-tell-us-about-your-experience-3</guid>
       <description>Share your views on Student Services with a chance to win a £100 Amazon voucher</description>
       <pubDate>Sun, 11 Oct 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Change at the University of Nottingham</title>
-      <link>https://www.nottingham.ac.uk/currentstudents/news/change-at-the-university-of-nottingham</link>
-      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/change-at-the-university-of-nottingham</guid>
-      <description>With the Future Nottingham 2 (FN2) Final Business Case approved by University Council, the next few years will see a number of changes at the university.</description>
-      <pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
