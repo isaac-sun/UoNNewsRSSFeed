@@ -4,7 +4,14 @@
     <title>UoN Current Students News (all)</title>
     <link>https://www.nottingham.ac.uk/currentstudents/news/news.aspx?category=all</link>
     <description>University of Nottingham student news</description>
-    <lastBuildDate>Wed, 04 Nov 2026 09:14:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 17:17:56 +0000</lastBuildDate>
+    <item>
+      <title>Sustainability Action Week</title>
+      <link>https://www.nottingham.ac.uk/currentstudents/news/sustainability-action-week-2026</link>
+      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/sustainability-action-week-2026</guid>
+      <description>Get involved in free activities and engage with environmental issues to take action for the planet.</description>
+      <pubDate>Wed, 04 Nov 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Take part in a short online survey about university reputation</title>
       <link>https://www.nottingham.ac.uk/currentstudents/news/take-part-in-a-short-online-survey-about-university-reputation</link>
@@ -67,13 +74,6 @@
       <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/resources-relating-to-the-impact-of-industrial-action</guid>
       <description>Members of the University &amp; College Union (UCU) at the University of Nottingham are undertaking discontinuous strike action from Wednesday 30 September until Friday 11 December 2026.</description>
       <pubDate>Tue, 13 Oct 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Student Services survey - tell us about your experience</title>
-      <link>https://www.nottingham.ac.uk/currentstudents/news/student-services-survey-tell-us-about-your-experience-3</link>
-      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/student-services-survey-tell-us-about-your-experience-3</guid>
-      <description>Share your views on Student Services with a chance to win a £100 Amazon voucher</description>
-      <pubDate>Sun, 11 Oct 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
