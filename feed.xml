@@ -4,7 +4,14 @@
     <title>UoN Current Students News (all)</title>
     <link>https://www.nottingham.ac.uk/currentstudents/news/news.aspx?category=all</link>
     <description>University of Nottingham student news</description>
-    <lastBuildDate>Fri, 06 Nov 2026 10:54:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:58:10 +0000</lastBuildDate>
+    <item>
+      <title>Act of Remembrance, Wednesday 11 November at 11am</title>
+      <link>https://www.nottingham.ac.uk/currentstudents/news/act-of-remembrence</link>
+      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/act-of-remembrence</guid>
+      <description>Students and staff across the university are invited to participate in the Act of Remembrance by observing a two-minute silence at 11am on Wednesday 11 November 2026 in memory of all those who have died in armed conflict.</description>
+      <pubDate>Fri, 06 Nov 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Sustainability Action Week</title>
       <link>https://www.nottingham.ac.uk/currentstudents/news/sustainability-action-week-2026</link>
@@ -67,13 +74,6 @@
       <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/learn-with-a-leader-this-autumn</guid>
       <description>If you’re beginning to think about your career then who better to get advice from than a host of sector-leading Nottingham alumni?</description>
       <pubDate>Fri, 16 Oct 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Resources relating to the impact of industrial action</title>
-      <link>https://www.nottingham.ac.uk/currentstudents/news/resources-relating-to-the-impact-of-industrial-action</link>
-      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/resources-relating-to-the-impact-of-industrial-action</guid>
-      <description>Members of the University &amp; College Union (UCU) at the University of Nottingham are undertaking discontinuous strike action from Wednesday 30 September until Friday 11 December 2026.</description>
-      <pubDate>Tue, 13 Oct 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
