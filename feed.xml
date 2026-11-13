@@ -4,7 +4,14 @@
     <title>UoN Current Students News (all)</title>
     <link>https://www.nottingham.ac.uk/currentstudents/news/news.aspx?category=all</link>
     <description>University of Nottingham student news</description>
-    <lastBuildDate>Fri, 13 Nov 2026 16:25:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 22:38:35 +0000</lastBuildDate>
+    <item>
+      <title>Industrial action suspended – further details</title>
+      <link>https://www.nottingham.ac.uk/currentstudents/news/industrial-action-suspended-further-details</link>
+      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/industrial-action-suspended-further-details</guid>
+      <description>On Wednesday 11 November, an agreement was reached between the university and UCU colleagues. We are pleased to confirm that this means that the current period of industrial action has been suspended.</description>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft outage affecting Outlook, SharePoint, Teams and Copilot</title>
       <link>https://www.nottingham.ac.uk/currentstudents/news/microsoft-outage-affecting-outlook-sharepoint-teams-and-copilot</link>
@@ -66,13 +73,6 @@
       <link>https://www.nottingham.ac.uk/currentstudents/news/anti-racism-training</link>
       <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/anti-racism-training</guid>
       <description>Free sessions to help you understand and challenge racism.</description>
-      <pubDate>Mon, 26 Oct 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tell us about your commute to campus</title>
-      <link>https://www.nottingham.ac.uk/currentstudents/news/tell-us-about-your-commute-to-campus</link>
-      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/tell-us-about-your-commute-to-campus</guid>
-      <description>Complete our travel survey and you could win a £50 voucher.</description>
       <pubDate>Mon, 26 Oct 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
