@@ -4,7 +4,14 @@
     <title>UoN Current Students News (all)</title>
     <link>https://www.nottingham.ac.uk/currentstudents/news/news.aspx?category=all</link>
     <description>University of Nottingham student news</description>
-    <lastBuildDate>Fri, 13 Nov 2026 07:59:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:25:41 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft outage affecting Outlook, SharePoint, Teams and Copilot</title>
+      <link>https://www.nottingham.ac.uk/currentstudents/news/microsoft-outage-affecting-outlook-sharepoint-teams-and-copilot</link>
+      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/microsoft-outage-affecting-outlook-sharepoint-teams-and-copilot</guid>
+      <description>A global Microsoft outage is affecting a number of our Microsoft 365 services, including Outlook, Teams, SharePoint and Copilot.</description>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Industrial action suspended</title>
       <link>https://www.nottingham.ac.uk/currentstudents/news/industrial-action-suspended-1</link>
@@ -67,13 +74,6 @@
       <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/tell-us-about-your-commute-to-campus</guid>
       <description>Complete our travel survey and you could win a £50 voucher.</description>
       <pubDate>Mon, 26 Oct 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wobble Week events and resources</title>
-      <link>https://www.nottingham.ac.uk/currentstudents/news/wobble-week-events-and-resources</link>
-      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/wobble-week-events-and-resources</guid>
-      <description>Two weeks of activities to support anyone feeling overwhelmed by university life.</description>
-      <pubDate>Fri, 23 Oct 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
