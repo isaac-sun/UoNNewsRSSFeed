@@ -4,7 +4,14 @@
     <title>UoN Current Students News (all)</title>
     <link>https://www.nottingham.ac.uk/currentstudents/news/news.aspx?category=all</link>
     <description>University of Nottingham student news</description>
-    <lastBuildDate>Wed, 18 Nov 2026 13:59:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:57:30 +0000</lastBuildDate>
+    <item>
+      <title>Scams targeting international students</title>
+      <link>https://www.nottingham.ac.uk/currentstudents/news/scams-targeting-international-students</link>
+      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/scams-targeting-international-students</guid>
+      <description>International students in the UK have reported ongoing scam attempts. Learn more about the most common types of scams and find out what you can do to stay safe.</description>
+      <pubDate>Wed, 18 Nov 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Extenuating circumstances policy</title>
       <link>https://www.nottingham.ac.uk/currentstudents/news/extenuating-circumstances-policy-4</link>
@@ -67,13 +74,6 @@
       <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/campus-solutions-will-be-temporarily-unavailable</guid>
       <description>We are taking NottinghamHub offline for essential maintenance.</description>
       <pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apply now for a sustainable micro-internship</title>
-      <link>https://www.nottingham.ac.uk/currentstudents/news/apply-now-for-a-sustainable-micro-internship</link>
-      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/apply-now-for-a-sustainable-micro-internship</guid>
-      <description>The U21 Sustainable Micro-Internships are a two-week online programme where you will collaborate with students from across the globe to provide a solution to one or more of the UN Sustainable Development Goals.</description>
-      <pubDate>Tue, 27 Oct 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
