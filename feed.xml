@@ -4,7 +4,14 @@
     <title>UoN Current Students News (all)</title>
     <link>https://www.nottingham.ac.uk/currentstudents/news/news.aspx?category=all</link>
     <description>University of Nottingham student news</description>
-    <lastBuildDate>Thu, 19 Nov 2026 13:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 21:35:59 +0000</lastBuildDate>
+    <item>
+      <title>Q&amp;A with the Vice-Chancellor</title>
+      <link>https://www.nottingham.ac.uk/currentstudents/news/qa-with-the-vice-chancellor-2</link>
+      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/qa-with-the-vice-chancellor-2</guid>
+      <description>Join the Students' Union for an event discussing industrial action and Future Nottingham.</description>
+      <pubDate>Thu, 19 Nov 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Scams targeting international students</title>
       <link>https://www.nottingham.ac.uk/currentstudents/news/scams-targeting-international-students</link>
@@ -67,13 +74,6 @@
       <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/take-part-in-a-short-online-survey-about-university-reputation</guid>
       <description>The survey will take around 10 minutes to complete and you could win up to £100 in vouchers.</description>
       <pubDate>Mon, 02 Nov 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NottinghamHub will be temporarily unavailable</title>
-      <link>https://www.nottingham.ac.uk/currentstudents/news/campus-solutions-will-be-temporarily-unavailable</link>
-      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/campus-solutions-will-be-temporarily-unavailable</guid>
-      <description>We are taking NottinghamHub offline for essential maintenance.</description>
-      <pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
