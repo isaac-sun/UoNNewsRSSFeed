@@ -4,7 +4,14 @@
     <title>UoN Current Students News (all)</title>
     <link>https://www.nottingham.ac.uk/currentstudents/news/news.aspx?category=all</link>
     <description>University of Nottingham student news</description>
-    <lastBuildDate>Tue, 24 Nov 2026 10:56:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:11:48 +0000</lastBuildDate>
+    <item>
+      <title>Correspondence between the university and the SU over industrial action</title>
+      <link>https://www.nottingham.ac.uk/currentstudents/news/correspondence-between-the-university-and-the-su-over-industrial-action</link>
+      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/correspondence-between-the-university-and-the-su-over-industrial-action</guid>
+      <description>Over the past few weeks, we’ve been talking with Students’ Union Officers about how best to support students who have been impacted by industrial action.</description>
+      <pubDate>Tue, 24 Nov 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Share your views on our library services and support</title>
       <link>https://www.nottingham.ac.uk/currentstudents/news/share-your-views-on-our-library-services-and-support-1</link>
@@ -67,13 +74,6 @@
       <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/staff-excellence-awards</guid>
       <description>Our staff winners were presented with awards at a ceremony on Monday 2 November 2026.</description>
       <pubDate>Mon, 09 Nov 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Act of Remembrance, Wednesday 11 November at 11am</title>
-      <link>https://www.nottingham.ac.uk/currentstudents/news/act-of-remembrence</link>
-      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/act-of-remembrence</guid>
-      <description>Students and staff across the university are invited to participate in the Act of Remembrance by observing a two-minute silence at 11am on Wednesday 11 November 2026 in memory of all those who have died in armed conflict.</description>
-      <pubDate>Fri, 06 Nov 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
