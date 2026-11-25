@@ -4,7 +4,14 @@
     <title>UoN Current Students News (all)</title>
     <link>https://www.nottingham.ac.uk/currentstudents/news/news.aspx?category=all</link>
     <description>University of Nottingham student news</description>
-    <lastBuildDate>Wed, 25 Nov 2026 04:12:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:24:46 +0000</lastBuildDate>
+    <item>
+      <title>Respect matters: If something isn't right, speak up</title>
+      <link>https://www.nottingham.ac.uk/currentstudents/news/respect-matters-if-something-isnt-right-speak-up</link>
+      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/respect-matters-if-something-isnt-right-speak-up</guid>
+      <description>This autumn, we're taking the opportunity to remind our community of the standards we all share and to encourage anyone who experiences or witnesses harassment to speak up.</description>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Correspondence between the university and the SU over industrial action</title>
       <link>https://www.nottingham.ac.uk/currentstudents/news/correspondence-between-the-university-and-the-su-over-industrial-action</link>
@@ -67,13 +74,6 @@
       <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/industrial-action-suspended-1</guid>
       <description>We are pleased to announce a suspension to the current industrial action after an agreement was reached today between the university and UCU colleagues.</description>
       <pubDate>Wed, 11 Nov 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Staff Excellence Awards</title>
-      <link>https://www.nottingham.ac.uk/currentstudents/news/staff-excellence-awards</link>
-      <guid isPermaLink="true">https://www.nottingham.ac.uk/currentstudents/news/staff-excellence-awards</guid>
-      <description>Our staff winners were presented with awards at a ceremony on Monday 2 November 2026.</description>
-      <pubDate>Mon, 09 Nov 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
